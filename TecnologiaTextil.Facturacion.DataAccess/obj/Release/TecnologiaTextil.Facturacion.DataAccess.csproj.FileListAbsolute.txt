@@ -1,0 +1,9 @@
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.DataAccess\bin\Release\TecnologiaTextil.Facturacion.DataAccess.dll
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.DataAccess\bin\Release\TecnologiaTextil.Facturacion.DataAccess.pdb
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.DataAccess\bin\Release\TecnologiaTextil.Facturacion.Profile.dll
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.DataAccess\bin\Release\TecnologiaTextil.Facturacion.Profile.pdb
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.DataAccess\obj\Release\TecnologiaTextil.Facturacion.DataAccess.csprojResolveAssemblyReference.cache
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.DataAccess\obj\Release\TecnologiaTextil.Facturacion.DataAccess.csproj.CoreCompileInputs.cache
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.DataAccess\obj\Release\TecnologiaTextil.Facturacion.DataAccess.csproj.CopyComplete
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.DataAccess\obj\Release\TecnologiaTextil.Facturacion.DataAccess.dll
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.DataAccess\obj\Release\TecnologiaTextil.Facturacion.DataAccess.pdb

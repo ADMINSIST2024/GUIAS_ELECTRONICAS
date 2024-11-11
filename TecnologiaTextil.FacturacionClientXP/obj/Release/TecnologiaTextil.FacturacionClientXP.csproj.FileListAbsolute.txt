@@ -1,0 +1,11 @@
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\bin\Release\TecnologiaTextil.FacturacionClient.exe.config
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\bin\Release\TecnologiaTextil.FacturacionClient.exe
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\bin\Release\TecnologiaTextil.FacturacionClient.pdb
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Release\TecnologiaTextil.FacturacionClientXP.FrmEnvio.resources
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Release\TecnologiaTextil.FacturacionClientXP.Properties.Resources.resources
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Release\TecnologiaTextil.FacturacionClientXP.csproj.GenerateResource.cache
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Release\TecnologiaTextil.FacturacionClientXP.csproj.CoreCompileInputs.cache
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Release\TecnologiaTextil.FacturacionClient.exe
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Release\TecnologiaTextil.FacturacionClient.pdb
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Release\TecnologiaTextil.FacturacionClientXP.csprojResolveAssemblyReference.cache
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Release\TecnologiaTextil.FacturacionClientXP.FrmListLogs.resources

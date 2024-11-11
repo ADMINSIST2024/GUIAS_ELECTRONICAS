@@ -1,0 +1,43 @@
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\bin\Debug\TecnologiaTextil.FacturacionClient.exe.config
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\bin\Debug\TecnologiaTextil.FacturacionClient.exe
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\bin\Debug\TecnologiaTextil.FacturacionClient.pdb
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.FrmEnvio.resources
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.Properties.Resources.resources
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.csproj.GenerateResource.cache
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.csproj.CoreCompileInputs.cache
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClient.exe
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClient.pdb
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.FrmListLogs.resources
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.FacturacionClientXP\bin\Debug\TecnologiaTextil.FacturacionClient.exe.config
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.FacturacionClientXP\bin\Debug\TecnologiaTextil.FacturacionClient.exe
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.FacturacionClientXP\bin\Debug\TecnologiaTextil.FacturacionClient.pdb
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.FrmEnvio.resources
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.FrmListLogs.resources
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.Properties.Resources.resources
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClient.exe
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClient.pdb
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.FacturacionClientXP\bin\Debug\TecnologiaTextil.FacturacionClient.exe.config
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClient.exe
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClient.pdb
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.FacturacionClientXP\bin\Debug\TecnologiaTextil.FacturacionClient.exe
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.FacturacionClientXP\bin\Debug\TecnologiaTextil.FacturacionClient.pdb
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.FrmEnvio.resources
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.FrmListLogs.resources
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.Properties.Resources.resources
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.csproj.GenerateResource.Cache
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.csproj.AssemblyReference.cache
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.FacturacionClientXP\bin\Debug\TecnologiaTextil.FacturacionClient.exe.config
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.FacturacionClientXP\bin\Debug\TecnologiaTextil.FacturacionClient.exe
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.FacturacionClientXP\bin\Debug\TecnologiaTextil.FacturacionClient.pdb
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.csproj.AssemblyReference.cache
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.FrmEnvio.resources
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.FrmListLogs.resources
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.Properties.Resources.resources
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.csproj.GenerateResource.cache
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClientXP.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClient.exe
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.FacturacionClientXP\obj\Debug\TecnologiaTextil.FacturacionClient.pdb

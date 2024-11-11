@@ -1,0 +1,17 @@
+﻿This might help to understand what is recorded at what level Loggers may be assigned levels. Levels are instances of the log4net.Core.Level class. The following levels are defined in order of increasing severity - Log Level.
+
+Number of levels recorded for each setting level:
+
+ ALL    DEBUG   INFO    WARN    ERROR   FATAL   OFF
+•All                        
+•DEBUG  •DEBUG                  
+•INFO   •INFO   •INFO               
+•WARN   •WARN   •WARN   •WARN           
+•ERROR  •ERROR  •ERROR  •ERROR  •ERROR      
+•FATAL  •FATAL  •FATAL  •FATAL  •FATAL  •FATAL  
+•OFF    •OFF    •OFF    •OFF    •OFF    •OFF    •OFF
+
+
+https://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_73/db2/rbafzcatsysrout.htm
+
+https://petewarden.com/2008/09/27/how-to-post-an/

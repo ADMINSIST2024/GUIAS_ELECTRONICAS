@@ -1,0 +1,14 @@
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\bin\Release\TestClientEfactRest.exe.config
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\bin\Release\TestClientEfactRest.exe
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\bin\Release\TestClientEfactRest.pdb
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\bin\Release\Newtonsoft.Json.dll
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\bin\Release\RestSharp.dll
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\bin\Release\Newtonsoft.Json.xml
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Release\TestClientEfactRest.Form1.resources
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Release\TestClientEfactRest.Properties.Resources.resources
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Release\TestClientEfactRest.csproj.GenerateResource.cache
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Release\TestClientEfactRest.csproj.CoreCompileInputs.cache
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Release\TestClientEfactRest.csproj.CopyComplete
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Release\TestClientEfactRest.exe
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Release\TestClientEfactRest.pdb
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Release\TestClientEfactRest.csprojResolveAssemblyReference.cache

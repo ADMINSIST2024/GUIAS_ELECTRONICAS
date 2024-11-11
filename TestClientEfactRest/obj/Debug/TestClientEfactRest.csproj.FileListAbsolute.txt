@@ -1,0 +1,70 @@
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\bin\Debug\TestClientEfactRest.exe.config
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\bin\Debug\TestClientEfactRest.exe
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\bin\Debug\TestClientEfactRest.pdb
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\bin\Debug\RestSharp.dll
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.csprojResolveAssemblyReference.cache
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.Form1.resources
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.Properties.Resources.resources
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.GenerateResource.cache
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.CoreCompileInputs.cache
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.CopyComplete
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.exe
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.pdb
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\bin\Debug\Newtonsoft.Json.dll
+c:\users\system05\source\repos\TestClientEfactRest\TestClientEfactRest\bin\Debug\Newtonsoft.Json.xml
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\bin\Debug\TestClientEfactRest.exe.config
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\bin\Debug\TestClientEfactRest.exe
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\bin\Debug\TestClientEfactRest.pdb
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\bin\Debug\Newtonsoft.Json.dll
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\bin\Debug\RestSharp.dll
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\bin\Debug\Newtonsoft.Json.xml
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.Form1.resources
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.Properties.Resources.resources
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.GenerateResource.cache
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.CoreCompileInputs.cache
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.CopyComplete
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.exe
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.pdb
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TestClientEfactRest\obj\Debug\TestClientEfactRest.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\sources\TestClientEfactRest\bin\Debug\TestClientEfactRest.exe.config
+C:\Users\usuario\Desktop\sources\TestClientEfactRest\bin\Debug\TestClientEfactRest.exe
+C:\Users\usuario\Desktop\sources\TestClientEfactRest\bin\Debug\TestClientEfactRest.pdb
+C:\Users\usuario\Desktop\sources\TestClientEfactRest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\sources\TestClientEfactRest\bin\Debug\RestSharp.dll
+C:\Users\usuario\Desktop\sources\TestClientEfactRest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.Form1.resources
+C:\Users\usuario\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.Properties.Resources.resources
+C:\Users\usuario\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.CopyComplete
+C:\Users\usuario\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.exe
+C:\Users\usuario\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.pdb
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\bin\Debug\TestClientEfactRest.exe.config
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\bin\Debug\TestClientEfactRest.exe
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\bin\Debug\TestClientEfactRest.pdb
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\bin\Debug\RestSharp.dll
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.AssemblyReference.cache
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.Form1.resources
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.Properties.Resources.resources
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.GenerateResource.cache
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.CopyComplete
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.exe
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.pdb
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\bin\Debug\TestClientEfactRest.exe.config
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\bin\Debug\TestClientEfactRest.exe
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\bin\Debug\TestClientEfactRest.pdb
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\bin\Debug\RestSharp.dll
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.AssemblyReference.cache
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.SuggestedBindingRedirects.cache
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.Form1.resources
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.Properties.Resources.resources
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.GenerateResource.cache
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.csproj.CopyComplete
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.exe
+C:\Users\SYSTEM8\Desktop\sources\TestClientEfactRest\obj\Debug\TestClientEfactRest.pdb

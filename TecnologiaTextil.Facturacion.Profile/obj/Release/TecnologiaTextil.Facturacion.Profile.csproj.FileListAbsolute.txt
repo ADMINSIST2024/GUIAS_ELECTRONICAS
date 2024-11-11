@@ -1,0 +1,5 @@
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.Profile\bin\Release\TecnologiaTextil.Facturacion.Profile.dll
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.Profile\bin\Release\TecnologiaTextil.Facturacion.Profile.pdb
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.Profile\obj\Release\TecnologiaTextil.Facturacion.Profile.csproj.CoreCompileInputs.cache
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.Profile\obj\Release\TecnologiaTextil.Facturacion.Profile.dll
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.Profile\obj\Release\TecnologiaTextil.Facturacion.Profile.pdb

@@ -1,0 +1,17 @@
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\bin\Debug\GestionEfact.exe.config
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\bin\Debug\GestionEfact.exe
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\bin\Debug\GestionEfact.pdb
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\bin\Debug\Guna.UI.dll
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\bin\Debug\TecnologiaTextil.Facturacion.DataAccess.dll
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\bin\Debug\TecnologiaTextil.Facturacion.Profile.dll
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\bin\Debug\TecnologiaTextil.Facturacion.DataAccess.pdb
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\bin\Debug\TecnologiaTextil.Facturacion.Profile.pdb
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\obj\Debug\GestionEfact.csproj.AssemblyReference.cache
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\obj\Debug\GestionEfact.csproj.SuggestedBindingRedirects.cache
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\obj\Debug\GestionEfact.Form1.resources
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\obj\Debug\GestionEfact.Properties.Resources.resources
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\obj\Debug\GestionEfact.csproj.GenerateResource.cache
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\obj\Debug\GestionEfact.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\obj\Debug\GestionEfact.csproj.CopyComplete
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\obj\Debug\GestionEfact.exe
+C:\Users\SYSTEM8\Desktop\sources\GestionEfact\obj\Debug\GestionEfact.pdb

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Project</StartAction>
+    <StartArguments>10 FVT163COB2</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>C:\Users\SYSTEM05\Desktop\TXT_YMB\TXT_YMB\20522907911-01-F005-000251.txt</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

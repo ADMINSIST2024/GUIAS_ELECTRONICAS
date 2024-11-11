@@ -1,0 +1,35 @@
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.Profile\bin\Debug\TecnologiaTextil.Facturacion.Profile.dll
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.Profile\bin\Debug\TecnologiaTextil.Facturacion.Profile.pdb
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.csproj.CoreCompileInputs.cache
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.dll
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.pdb
+D:\JUAN CALLA\Fuentes\TestClientEfactRest\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.Facturacion.Profile\bin\Debug\TecnologiaTextil.Facturacion.Profile.dll
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.Facturacion.Profile\bin\Debug\TecnologiaTextil.Facturacion.Profile.pdb
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.dll
+C:\Users\usuario\Desktop\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.pdb
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.Facturacion.Profile\bin\Debug\TecnologiaTextil.Facturacion.Profile.dll
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.Facturacion.Profile\bin\Debug\TecnologiaTextil.Facturacion.Profile.pdb
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.dll
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.pdb
+C:\Users\SYSTEM7\Desktop\EFACT\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.csproj.AssemblyReference.cache
+C:\Users\SYSTEM7\Desktop\EFACT\EFACT GUIAS\sources\TecnologiaTextil.Facturacion.Profile\bin\Debug\TecnologiaTextil.Facturacion.Profile.dll
+C:\Users\SYSTEM7\Desktop\EFACT\EFACT GUIAS\sources\TecnologiaTextil.Facturacion.Profile\bin\Debug\TecnologiaTextil.Facturacion.Profile.pdb
+C:\Users\SYSTEM7\Desktop\EFACT\EFACT GUIAS\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM7\Desktop\EFACT\EFACT GUIAS\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.dll
+C:\Users\SYSTEM7\Desktop\EFACT\EFACT GUIAS\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.pdb
+C:\Users\SYSTEM7\Desktop\EFACT\EFACT GUIAS\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.csproj.AssemblyReference.cache
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.Facturacion.Profile\bin\Debug\TecnologiaTextil.Facturacion.Profile.dll
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.Facturacion.Profile\bin\Debug\TecnologiaTextil.Facturacion.Profile.pdb
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.csproj.AssemblyReference.cache
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.dll
+C:\Users\SYSTEM8\Desktop\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.pdb
+D:\ESCRITORIO\sources\TecnologiaTextil.Facturacion.Profile\bin\Debug\TecnologiaTextil.Facturacion.Profile.dll
+D:\ESCRITORIO\sources\TecnologiaTextil.Facturacion.Profile\bin\Debug\TecnologiaTextil.Facturacion.Profile.pdb
+D:\ESCRITORIO\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.csproj.AssemblyReference.cache
+D:\ESCRITORIO\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.dll
+D:\ESCRITORIO\sources\TecnologiaTextil.Facturacion.Profile\obj\Debug\TecnologiaTextil.Facturacion.Profile.pdb
